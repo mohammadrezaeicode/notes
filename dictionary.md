@@ -13,3 +13,5 @@ CloudOps: Cloud Operations
 ASM: Attack Surface Management, Assembly Language, Application Service Management
 
 EAM: Enterprise Asset Management
+
+CSP: Content Security Policy
