@@ -1,4 +1,19 @@
-# HTTP Response status:
+# HTTP
+
+## HTTP request methods
+
+- [CONNECT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT)
+- [DELETE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/DELETE)
+- [GET](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/GET)
+- [HEAD](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/HEAD)
+- [OPTIONS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS)
+- [PATCH](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PATCH)
+- [POST](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/POST)
+- [PUT](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/PUT)
+- [TRACE](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/TRACE)
+
+## HTTP Response status:
+
 - [100 Continue](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429)
 - [101 Switching Protocols](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/101)
 - [102 Processing](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/102)

@@ -1,3 +1,5 @@
+# Dictionary
+
 APM: Application Performance Monitoring, Asset Performance Management
 
 SRE: Site reliability engineering
@@ -15,3 +17,9 @@ ASM: Attack Surface Management, Assembly Language, Application Service Managemen
 EAM: Enterprise Asset Management
 
 CSP: Content Security Policy
+
+TLS: Transport Layer Security
+
+HSTS: HTTP Strict Transport Security
+
+CDN: Content Delivery Network
